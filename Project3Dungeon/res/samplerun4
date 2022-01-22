@@ -1,0 +1,18 @@
+/Project3Dungeon DriverProject4 1 4 6 0 30 3
+Enter 1 for pseudo-random object and 2 for random object: 2
+
+You are in a CAVE
+You find 1 DIAMOND,1 SAPPHIRE here.
+You smell a mild stench nearby
+Possible exits: EAST
+
+Move, Pickup, Shoot, Player Details (M-P-S-D)?: m
+Where? (N,S,E,W): e
+
+You are in a CAVE
+You smell something terrible nearby
+Possible exits: EAST, WEST, SOUTH
+
+Move, Pickup, Shoot, Player Details (M-P-S-D)?: m
+Where? (N,S,E,W): e
+Nom, nom, nomm.. An Otyugh ate you!

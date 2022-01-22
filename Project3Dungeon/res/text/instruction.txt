@@ -1,0 +1,11 @@
+Game Controls: \n
+To Move - Arrow Keys \n \n
+To Pick - p \n
+    + a - Arrow \n
+    + r - Ruby  \n
+    + s - Sapphire \n
+    + d - Diamond \n \n
+To Shoot - s \n
+    + 1-5 - Distance \n
+    + Arrow Key - Direction
+zzendzz

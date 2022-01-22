@@ -1,0 +1,139 @@
+DriverProject4 1 4 6 0 30 3
+Enter 1 for pseudo-random object and 2 for random object: 1
+NOTE: (Random numbers have been passed for a maximum of 4*6 matrix in the pseudo random constructor)
+
+You are in a CAVE
+You find 1 DIAMOND,1 RUBY here.
+You find 1 CROOKED_ARROW here.
+Possible exits: SOUTH, WEST, EAST
+
+Move, Pickup, Shoot, Player Details (M-P-S-D)?: p
+What? (Ruby - r, Diamond - d, Sapphire - s, Arrow - a): d
+You picked a treasure.
+
+You are in a CAVE
+You find 1 RUBY here.
+You find 1 CROOKED_ARROW here.
+Possible exits: SOUTH, WEST, EAST
+
+Move, Pickup, Shoot, Player Details (M-P-S-D)?: p
+What? (Ruby - r, Diamond - d, Sapphire - s, Arrow - a): a
+You picked an arrow.
+
+You are in a CAVE
+You find 1 RUBY here.
+Possible exits: SOUTH, WEST, EAST
+
+Move, Pickup, Shoot, Player Details (M-P-S-D)?: p
+What? (Ruby - r, Diamond - d, Sapphire - s, Arrow - a): a
+You can only pick weapon at current location
+
+You are in a CAVE
+You find 1 RUBY here.
+Possible exits: SOUTH, WEST, EAST
+
+Move, Pickup, Shoot, Player Details (M-P-S-D)?: m
+Where? (N,S,E,W): e
+
+You are in a CAVE
+You find 1 CROOKED_ARROW here.
+You smell a mild stench nearby
+Possible exits: SOUTH, WEST, EAST
+
+Move, Pickup, Shoot, Player Details (M-P-S-D)?: p
+What? (Ruby - r, Diamond - d, Sapphire - s, Arrow - a): d
+You can only pick treasure at current location
+
+You are in a CAVE
+You find 1 CROOKED_ARROW here.
+You smell a mild stench nearby
+Possible exits: SOUTH, WEST, EAST
+
+Move, Pickup, Shoot, Player Details (M-P-S-D)?: s
+No of caves (1-5): 2
+Where? (N,S,E,W): e
+You shot an arrow!
+
+You are in a CAVE
+You find 1 CROOKED_ARROW here.
+You smell a mild stench nearby
+Possible exits: SOUTH, WEST, EAST
+
+Move, Pickup, Shoot, Player Details (M-P-S-D)?: s
+No of caves (1-5): 2
+Where? (N,S,E,W): e
+You shot an arrow!
+Bravo! You killed a monster
+
+You are in a CAVE
+You find 1 CROOKED_ARROW here.
+Possible exits: SOUTH, WEST, EAST
+
+Move, Pickup, Shoot, Player Details (M-P-S-D)?: m
+Where? (N,S,E,W): e
+
+You are in a CAVE
+You find 1 DIAMOND here.
+Possible exits: SOUTH, WEST, EAST
+
+Move, Pickup, Shoot, Player Details (M-P-S-D)?: m
+Where? (N,S,E,W): s
+
+You are in a TUNNEL
+You smell a mild stench nearby
+Possible exits: SOUTH, NORTH
+
+Move, Pickup, Shoot, Player Details (M-P-S-D)?: m
+Where? (N,S,E,W): s
+
+You are in a TUNNEL
+You smell something terrible nearby
+Possible exits: SOUTH, NORTH
+
+Move, Pickup, Shoot, Player Details (M-P-S-D)?: s
+No of caves (1-5): 1
+Where? (N,S,E,W): s
+You shot an arrow!
+
+You are in a TUNNEL
+You smell something terrible nearby
+Possible exits: SOUTH, NORTH
+
+Move, Pickup, Shoot, Player Details (M-P-S-D)?: s
+No of caves (1-5): 1
+Where? (N,S,E,W): s
+You shot an arrow!
+Bravo! You killed a monster
+
+You are in a TUNNEL
+Possible exits: SOUTH, NORTH
+
+Move, Pickup, Shoot, Player Details (M-P-S-D)?: m
+Where? (N,S,E,W): n
+
+You are in a TUNNEL
+Possible exits: SOUTH, NORTH
+
+Move, Pickup, Shoot, Player Details (M-P-S-D)?: d
+Treasure collected: 1 DIAMOND
+Available weapons: 0 CROOKED_ARROW
+
+You are in a TUNNEL
+Possible exits: SOUTH, NORTH
+
+Move, Pickup, Shoot, Player Details (M-P-S-D)?: s
+No of caves (1-5): 1
+Where? (N,S,E,W): s
+Kindly select available weapon and direction
+You are in a TUNNEL
+Possible exits: SOUTH, NORTH
+
+Move, Pickup, Shoot, Player Details (M-P-S-D)?: m
+Where? (N,S,E,W): s
+
+You are in a TUNNEL
+Possible exits: SOUTH, NORTH
+
+Move, Pickup, Shoot, Player Details (M-P-S-D)?: m
+Where? (N,S,E,W): s
+Congratulations! You won the game.
